@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<Button id="loginF"></Button>
+		<Button id="activeOff"></Button>
+		
+		<Label id="nombre"></Label>
+		
+		<ImageView id="foto"></ImageView>
+	</Window>
+</Alloy>
